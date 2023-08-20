@@ -1,8 +1,7 @@
-# React + Vite
+# Projeto para aprender useState
+## Esse projeto consiste em apenas usar o useState para setar o valor e trocar o background do projeto imagem do botao e texto do botão
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Print do projeto claro
+![light](https://github.com/guiwebber/usingProps/assets/47763495/679c750c-b7ae-4b32-998d-d405892d2be0)
+### Print do projeto escuro
+![dark](https://github.com/guiwebber/usingProps/assets/47763495/9ab38a60-0331-4f18-b400-69e9b1eaf7bc)
